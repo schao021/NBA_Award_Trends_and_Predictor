@@ -1,0 +1,24 @@
+NBA MVP Awards Analysis
+
+2 Main Dataframe
+Winner Dataframe, analyze purely the winner
+Find the Median for all stats
+Make a bar graph based on count to see what the approximate minimum should be (considering outliers)
+How does age play a factor in winning
+How has the stats changed over different Eras
+How does the stats change based on position
+Add a team wins and team standings
+Advance stats (Efficiency, winshare, etc.)
+Top 3 Dataframe, Compare the top 3 as a whole in comparison to the Winner
+Comparisons
+
+
+Analysis Section
+Find if there are any players who should have won but didn’t
+Potential Reason: Voter fatigue, competitive year, narratives, etc.
+Which stats is the most important in terms of actually winning the awards
+
+Machine Learning Section
+How many more points, rebounds, etc. did a player need to win the particular award
+A prediction model on who is most likely to win
+
