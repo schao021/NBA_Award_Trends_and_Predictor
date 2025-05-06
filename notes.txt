@@ -11,7 +11,7 @@ Add a team wins and team standings
 Advance stats (Efficiency, winshare, etc.)
 Top 3 Dataframe, Compare the top 3 as a whole in comparison to the Winner
 Comparisons
-
+Will do a comparison between advance stats and basic stats
 
 Analysis Section
 Find if there are any players who should have won but didn’t
